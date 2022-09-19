@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014119516357",
+    "project_id": "plug4queenss",
+    "storage_bucket": "plug4queenss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014119516357:android:c3e11f54b6b6160bb608ac",
+        "android_client_info": {
+          "package_name": "com.example.plug4queenss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014119516357-iictaksnt23eelgv713164nmrnmn8r6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqgXloAAUVuwlWH3cQcr2tandUlVDlNXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014119516357-iictaksnt23eelgv713164nmrnmn8r6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
