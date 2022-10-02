@@ -1,10 +1,9 @@
 package com.example.plug4queenss.data.models
 
 data class Products(
-    val image: String,
-    val name: String,
-    val price: Double,
-    val seller: String,
-    val colour: String,
-    val id: String
+    var id: String? = null,
+    var image: String? = null,
+    var name: String? = null,
+    var price: Double = 0.0,
+    var seller: String? = null
 )
